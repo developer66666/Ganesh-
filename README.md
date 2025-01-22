@@ -145,7 +145,6 @@
   <summary>Skills</summary>
   
 - Problem Solving
-- Youtuber
 - Blogging
 - Web Content Writing
 - Video Editing
@@ -179,7 +178,7 @@ while(alive) {
   sleep();
   code();
 }
-// - Aashis Jha
+// - Ganesh Babu J R
 ```
 
 <hr />
